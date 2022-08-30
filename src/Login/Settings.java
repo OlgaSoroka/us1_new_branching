@@ -2,6 +2,9 @@ package Login;
 
 public class Settings {
 
-    // some settings olga
-    // some settings olga
+    // I change some settings here - sam
+    // I change some settings here - sam
+
+
+
 }
